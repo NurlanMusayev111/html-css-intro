@@ -1,0 +1,37 @@
+#content{
+    border: 1px solid black;
+    height: 500px;
+    width: 100%;
+    background-color: rgb(242, 240, 240);
+    
+}
+
+
+.header{
+    text-align: center;
+    
+}
+
+.heading{
+    margin: 30px 40px;
+}
+
+.heading-text{
+    margin: 0px 40px;
+}
+
+.heading-end{
+    margin: 30px 40px;
+}
+
+.heading-end a{
+    
+    color: black;
+
+}
+
+img{
+    margin: 0px 40px;
+    height: 160px;
+    width: 230px;
+}

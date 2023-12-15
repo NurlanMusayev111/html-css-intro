@@ -1,0 +1,50 @@
+.login{
+    height: 370px;
+    width: 570px;
+    border: 1px solid black;
+    box-shadow: 0px 0px 10px black;
+    margin: 30px 450px;
+}
+
+
+.login-header h1{
+    text-align: center;
+}
+
+.login-email h3{
+    margin: 0px 35px;
+}
+
+.login-email input{
+    margin: 10px 35px;
+    height: 30px;
+    width: 460px;
+    border-radius: 5px;
+}
+
+
+.login-password h3{
+    margin: 7px 35px;
+}
+
+.login-password input{
+    margin: 10px 35px;
+    height: 30px;
+    width: 460px;
+    border-radius: 5px;
+}
+
+
+.login-btn{
+    text-align: center;
+    margin: 30px 0px;
+}
+
+.login-btn button{
+    background-color: green;
+    color: white;
+    height: 35px;
+    width: 120px;
+    box-shadow: 0px 0px 5px green;
+    border-radius: 6px;
+}
